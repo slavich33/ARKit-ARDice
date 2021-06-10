@@ -13,6 +13,7 @@
 		F92C5E762651BCB600D136B7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F92C5E742651BCB600D136B7 /* Main.storyboard */; };
 		F92C5E782651BCB700D136B7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F92C5E772651BCB700D136B7 /* Assets.xcassets */; };
 		F92C5E7B2651BCB700D136B7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F92C5E792651BCB700D136B7 /* LaunchScreen.storyboard */; };
+		F9C4C7E4265587B400B8460C /* CreatingArModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9C4C7E3265587B400B8460C /* CreatingArModels.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F92C5E772651BCB700D136B7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F92C5E7A2651BCB700D136B7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F92C5E7C2651BCB700D136B7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F9C4C7E3265587B400B8460C /* CreatingArModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatingArModels.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +59,10 @@
 			isa = PBXGroup;
 			children = (
 				F92C5E6E2651BCB600D136B7 /* AppDelegate.swift */,
-				F92C5E702651BCB600D136B7 /* art.scnassets */,
 				F92C5E722651BCB600D136B7 /* ViewController.swift */,
+				F9C4C7E3265587B400B8460C /* CreatingArModels.swift */,
 				F92C5E742651BCB600D136B7 /* Main.storyboard */,
+				F92C5E702651BCB600D136B7 /* art.scnassets */,
 				F92C5E772651BCB700D136B7 /* Assets.xcassets */,
 				F92C5E792651BCB700D136B7 /* LaunchScreen.storyboard */,
 				F92C5E7C2651BCB700D136B7 /* Info.plist */,
@@ -140,6 +143,7 @@
 			files = (
 				F92C5E732651BCB600D136B7 /* ViewController.swift in Sources */,
 				F92C5E6F2651BCB600D136B7 /* AppDelegate.swift in Sources */,
+				F9C4C7E4265587B400B8460C /* CreatingArModels.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
